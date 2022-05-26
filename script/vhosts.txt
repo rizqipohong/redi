@@ -1,0 +1,39 @@
+<VirtualHost 127.0.0.2:80>
+    DocumentRoot "C:\xampp\htdocs\ratapay-mp"
+    DirectoryIndex index.php
+    ServerName shop.test
+    <Directory "C:\xampp\htdocs\ratapay-mp">
+    Options Indexes FollowSymLinks MultiViews
+    AllowOverride all
+    Order Deny,Allow
+    Allow from all
+    Require all granted
+</Directory>
+</VirtualHost>
+
+<VirtualHost 127.0.0.3:80>
+    DocumentRoot "C:\xampp\htdocs\ratapay-mp"
+    DirectoryIndex index.php
+    ServerName saya1.shop.test
+    <Directory "C:\xampp\htdocs\ratapay-mp">
+    Options Indexes FollowSymLinks MultiViews
+    AllowOverride all
+    Order Deny,Allow
+    Allow from all
+    Require all granted
+</Directory>
+</VirtualHost>
+
+<VirtualHost 127.0.0.4:80>
+    DocumentRoot "C:\xampp\htdocs\ratapay-mp"
+    DirectoryIndex index.php
+    ServerName fifizz02.shop.test
+    <Directory "C:\xampp\htdocs\ratapay-mp">
+    Options Indexes FollowSymLinks MultiViews
+    AllowOverride all
+    Order Deny,Allow
+    Allow from all
+    Require all granted
+</Directory>
+</VirtualHost>
+

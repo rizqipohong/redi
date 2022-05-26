@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Videos/JOKI_ARTTA/.idea/JOKI_ARTTA.iml" filepath="$USER_HOME$/Videos/JOKI_ARTTA/.idea/JOKI_ARTTA.iml" />
+      <module fileurl="file://E:/RIMBA/administrator-api/.idea/administrator-api.iml" filepath="E:/RIMBA/administrator-api/.idea/administrator-api.iml" />
+      <module fileurl="file://E:/RIMBA/administrator-ui/.idea/administrator-ui.iml" filepath="E:/RIMBA/administrator-ui/.idea/administrator-ui.iml" />
+      <module fileurl="file://E:/SUPRI/bursa-kerja-smk/.idea/bursa-kerja-smk.iml" filepath="E:/SUPRI/bursa-kerja-smk/.idea/bursa-kerja-smk.iml" />
+      <module fileurl="file://E:/RIMBA/mango-crm/.idea/mango-crm.iml" filepath="E:/RIMBA/mango-crm/.idea/mango-crm.iml" />
+      <module fileurl="file://E:/RIMBA/mango-customer/.idea/mango-customer.iml" filepath="E:/RIMBA/mango-customer/.idea/mango-customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../oak-project/.idea/oak.iml" filepath="$PROJECT_DIR$/../oak-project/.idea/oak.iml" />
+      <module fileurl="file://E:/RIMBA/oaktree-api-gateway/.idea/oaktree-api-gateway.iml" filepath="E:/RIMBA/oaktree-api-gateway/.idea/oaktree-api-gateway.iml" />
+      <module fileurl="file://E:/RIMBA/oaktree-frontend-ubold/.idea/oaktree-frontend-ubold.iml" filepath="E:/RIMBA/oaktree-frontend-ubold/.idea/oaktree-frontend-ubold.iml" />
+      <module fileurl="file://$USER_HOME$/Videos/SMK PRAKERIN/prakerin_sawo/.idea/prakerin.iml" filepath="$USER_HOME$/Videos/SMK PRAKERIN/prakerin_sawo/.idea/prakerin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ratapay-mp.iml" filepath="$PROJECT_DIR$/.idea/ratapay-mp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../reborn2020/.idea/reborn2020.iml" filepath="$PROJECT_DIR$/../reborn2020/.idea/reborn2020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ratakan/reborn2020-master/.idea/reborn2020-master.iml" filepath="$PROJECT_DIR$/../ratakan/reborn2020-master/.idea/reborn2020-master.iml" />
+    </modules>
+  </component>
+</project>
